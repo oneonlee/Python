@@ -35,7 +35,7 @@ while True:
   try:
     user_input = int(input("#: "))
     print(f"You choose {country_list[user_input]}.")
-    print(f"The currency code is {code_list[user_input]}")
+    print(f"The currency code is {code_list[user_input]}.")
     break
   except ValueError:
     print("That wasn't a number.")
