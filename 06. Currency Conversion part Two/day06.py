@@ -34,7 +34,6 @@ for i in range(1, len(country_list)):
   if (country_list[i-1]==country_list[i]):
     country_list[i-1]=f"{country_list[i-1]} - [{currency_list[i-1]}]"
     country_list[i]=f"{country_list[i]} - [{currency_list[i]}]"
-    print(country_list[i-1], country_list[i])
 
 print("Welcome to Currency Convert PRO 2000\n")
 
