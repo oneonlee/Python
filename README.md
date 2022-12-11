@@ -1,4 +1,4 @@
-# Studying Python
+# Python Projects
 
 * [01. Bank](https://github.com/oneonlee/Python/tree/main/01.%20Bank)
 * [02. Frequency of words](https://github.com/oneonlee/Python/blob/main/02.%20Frequency%20of%20words/Frequency%20of%20words.ipynb)
